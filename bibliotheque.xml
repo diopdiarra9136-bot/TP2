@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliotheque xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="bibliotheque.xsd">
+    <livre isbn="ISBN-13-1234">
+        <titre>Mon livre 1</titre>
+        <annee_publication>2022</annee_publication>
+        <genre>Roman</genre>
+    </livre>
+    <livre isbn="ISBN-23-1234">
+        <titre>Mon livre 2</titre>
+        <annee_publication>2025</annee_publication>
+        <genre>Roman</genre>
+    </livre>
+</bibliotheque>
